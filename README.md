@@ -1,4 +1,4 @@
-## <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-U0lkLcSc0NJYa1IV_toRTx3XE2YIN9Jrw&usqp=CAU"/> Hi there 👋
+## <img width="50" height="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/273/hot-beverage_2615.png"/> Hi there 👋
 
 <a href="https://www.linkedin.com/in/phelip-roberto/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
