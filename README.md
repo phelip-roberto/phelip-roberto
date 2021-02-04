@@ -1,4 +1,4 @@
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-U0lkLcSc0NJYa1IV_toRTx3XE2YIN9Jrw&usqp=CAU"/> Hi there 👋
+## <img width="25" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-U0lkLcSc0NJYa1IV_toRTx3XE2YIN9Jrw&usqp=CAU"/> Hi there 👋
 
 <a href="https://www.linkedin.com/in/phelip-roberto/"  target="_blank" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
