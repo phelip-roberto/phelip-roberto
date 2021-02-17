@@ -1,5 +1,9 @@
 ## <img width="50" height="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/273/hot-beverage_2615.png"/> Hello there. 
-### My name is _Phelip Roberto_ and I'm a fullstack developer.
+### My name is _Phelip Roberto_ 
+
+* Current working as a fullstack developer;
+* Focused on frontend;
+* Willing to move from city / country;
 
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelip-roberto&show_icons=true&theme=dracula&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelip-roberto&layout=compact&theme=dracula&include_all_commits=true)]-->
