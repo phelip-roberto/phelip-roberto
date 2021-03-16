@@ -5,7 +5,7 @@
 * Focused on frontend;
 * Willing to move from city / country;
 
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelip-roberto&show_icons=true&theme=dracula&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phelip-roberto&show_icons=true&theme=dracula&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phelip-roberto&layout=compact&theme=dracula&include_all_commits=true)
 
 <a href="https://www.linkedin.com/in/phelip-roberto/"  target="_blank" >
