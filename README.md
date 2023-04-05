@@ -1,4 +1,4 @@
-## <img width="50" height="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/273/hot-beverage_2615.png"/> Hello there. 
+## :coffee: Hello there. 
 ### My name is _Phelip Roberto_ 
 
 * Current working as a fullstack developer;
