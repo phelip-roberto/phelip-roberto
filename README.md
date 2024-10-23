@@ -1,9 +1,9 @@
 ## :coffee: Hello there. 
 ### My name is _Phelip Roberto_ 
 
-* Current working as a fullstack developer;
-* Focused on frontend;
+* Current working as a frontend engineer;
 * Willing to move from city / country;
+* Main Stack: Java | Spring Boot | Typescript | Angular
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelip-roberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
